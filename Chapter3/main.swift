@@ -8,5 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
+//Aufgabe 3.1
+print((((20 * 4) % 3 + 8) * 10 + 8) / 2)
 
